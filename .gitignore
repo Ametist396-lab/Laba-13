@@ -1,0 +1,16 @@
+bin/
+obj/
+Debug/
+Release/
+
+*.db
+*.sqlite
+
+.vs/
+.vscode/
+*.user
+*.suo
+
+packages/
+
+Migrations/*.Designer.cs
